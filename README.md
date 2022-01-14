@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on APP Development...
 - 📫 How to reach me 
 - *Insta - rehyann_saini_
+- *Twitter - @RehyannSaini
+- *Facebook - Rehyann Saini
 
 <!---
 I Am Just a High Functionin SocioPath...
