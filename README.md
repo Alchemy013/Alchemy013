@@ -7,11 +7,7 @@
 - 💞️ I’m looking to collaborate on APP Development...
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
 - 📫 How to reach me 
- *Insta - rehyann_saini_
- 
- *Twitter - @RehyannSaini
- 
- *Facebook - Rehyann Saini
+     Dont! (jk)
 
 
   Looking for a team or an organization where I can learn and develop my skills
