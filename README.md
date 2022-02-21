@@ -16,7 +16,6 @@
 
   I Am Just a High Functionin SocioPath...
 
-  Moto
   
   *Respect the privacy of others.
   
