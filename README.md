@@ -7,6 +7,7 @@
 - *Twitter - @RehyannSaini
 - *Facebook - Rehyann Saini
 
+ Looking for a team or an organization where I can learn and develop my skills
 --- rehyannsaini.me
 <!---
 I Am Just a High Functionin SocioPath...
