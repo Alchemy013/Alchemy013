@@ -9,11 +9,7 @@
 - *Insta - rehyann_saini_
 - *Twitter - @RehyannSaini
 - *Facebook - Rehyann Saini
-
-
-
-![](name-of-giphy.gif)
- Looking for a team or an organization where I can learn and develop my skills
+  Looking for a team or an organization where I can learn and develop my skills
 --- rehyannsaini.me
 <!---
 I Am Just a High Functionin SocioPath...
