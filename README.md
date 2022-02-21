@@ -14,11 +14,14 @@
 
   Looking for a team or an organization where I can learn and develop my skills
 
-I Am Just a High Functionin SocioPath...
-Moto
-#Respect the privacy of others.
-#Think before you type.
-#With great power comes great responsibility.
+  I Am Just a High Functionin SocioPath...
 
-Quote Quote
-Loyalty is a two-way street. If I'm asking for it from you, then you're getting it from me.
+  Moto
+  *Respect the privacy of others.
+  *Think before you type.
+  *With great power comes great responsibility.
+
+
+  Quote Quote
+  Loyalty is a two-way street. If I'm asking for it from you, then you're getting it from me.
+  Quote Quote
