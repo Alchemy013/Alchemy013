@@ -18,7 +18,9 @@
 
   Moto
   *Respect the privacy of others.
+  
   *Think before you type.
+  
   *With great power comes great responsibility.
 
 
