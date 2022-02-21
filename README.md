@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Alchemy013                                                  
+ #👋 Hi, I’m @Alchemy013
+<br>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" />
+
 - 👀 I’m interested in hacking...!
 - 🌱 I’m currently learning Android Dev...
 - 💞️ I’m looking to collaborate on APP Development...
@@ -6,9 +10,7 @@
 - *Insta - rehyann_saini_
 - *Twitter - @RehyannSaini
 - *Facebook - Rehyann Saini
-![ShockedBronzeAssassinbug-max-1mb](https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif)
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" width="500" height="320" />
 
 
 ![](name-of-giphy.gif)
