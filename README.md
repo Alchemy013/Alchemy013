@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Rehyann Saini
 <br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155896676-fc838186-5591-45a0-9d4c-b8791004da6a.gif" />
 
 - 👀 I’m interested in hacking...!
 - 🌱 I’m currently learning Android Dev...
