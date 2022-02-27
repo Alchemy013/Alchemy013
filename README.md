@@ -26,3 +26,4 @@
   Quote Quote
   Loyalty is a two-way street. If I'm asking for it from you, then you're getting it from me.
   Quote Quote
+![op](https://user-images.githubusercontent.com/92947939/155896745-faffad30-0c3f-45bf-9806-16bd1a8ba53c.gif)
