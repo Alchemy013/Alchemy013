@@ -14,7 +14,7 @@
 
   Looking for a team or an organization where I can learn and develop my skills
 
-  I Am Just a High Functionin SocioPath...
+  I Am Just a High Functionin Maverick...
 
   
   *Respect the privacy of others.
